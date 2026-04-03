@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='utf-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+  <title>Terms & Conditions - ARTAI</title>
+  <style>
+    body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 20px; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; }
+    h2 { border-bottom: 2px solid #eee; padding-bottom: 10px; margin-top: 30px; }
+    h3 { color: #555; margin-top: 20px; }
+    p { margin-bottom: 15px; }
+    ul { margin-bottom: 15px; }
+    li { margin-bottom: 5px; }
+    .footer { margin-top: 50px; font-size: 0.9em; color: #777; border-top: 1px solid #eee; padding-top: 20px; }
+  </style>
+</head>
+<body>
+    <h1>Terms & Conditions</h1>
+    <p><strong>Last updated:</strong> January 01, 2026</p>
+    
+    <p>Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the <strong>ARTAI: AI Comic & Webtoon Maker</strong> mobile application (the "Service") operated by GoArtai ("us", "we", or "our").</p>
+
+    <p>Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users, and others who access or use the Service.</p>
+    
+    <p><strong>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms, then you may not access the Service.</strong></p>
+
+    <h2>1. Generative AI Policy & Disclaimer</h2>
+    <p>The Service utilizes Artificial Intelligence (AI) technologies to generate images, comics, and stories based on user inputs.</p>
+    <ul>
+        <li><strong>Nature of Content:</strong> You acknowledge that AI-generated content may sometimes be unpredictable, incorrect, fictional, or contain artifacts. The Service is provided for entertainment and creative purposes only.</li>
+        <li><strong>No Guarantee:</strong> We do not guarantee that the AI will generate content that exactly matches your expectations or is entirely free of errors.</li>
+        <li><strong>User Responsibility:</strong> You are solely responsible for the text prompts, photos, and inputs you provide to the Service.</li>
+    </ul>
+
+    <h2>2. Intellectual Property & Ownership</h2>
+    <h3>Your Content</h3>
+    <p>Subject to applicable laws regarding AI-generated content, <strong>you retain ownership rights</strong> to the comics, images, and stories you create using ARTAI. We do not claim ownership over your generated content.</p>
+    
+    <h3>License to Us</h3>
+    <p>By using the Service, you grant us a limited, non-exclusive license to process your inputs and generated images solely for the purpose of providing the Service (e.g., to generate the image and display it to you). We do not use your private photos for public marketing without your explicit consent.</p>
+
+    <h2>3. Prohibited Uses</h2>
+    <p>You agree not to use the Service to generate, upload, or share content that:</p>
+    <ul>
+        <li>Is illegal, harmful, threatening, or promotes violence.</li>
+        <li>Contains sexually explicit material, pornography, or child exploitation material.</li>
+        <li>Is defamatory, harassing, bullying, or promotes hate speech.</li>
+        <li>Infringes on the intellectual property, privacy, or other rights of any third party.</li>
+    </ul>
+    <p>We reserve the right to terminate or suspend your access immediately, without prior notice or liability, if you breach these Prohibited Uses.</p>
+
+    <h2>4. Free Service</h2>
+    <p>ARTAI is currently provided as a free service. We reserve the right to introduce premium features or subscriptions in the future, but any such changes will be communicated clearly, and you will not be charged without your explicit consent.</p>
+
+    <h2>5. Links To Other Web Sites</h2>
+    <p>Our Service may contain links to third-party web sites or services that are not owned or controlled by us. We has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services.</p>
+
+    <h2>6. Limitation of Liability</h2>
+    <p>In no event shall GoArtai, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from your access to or use of or inability to access or use the Service.</p>
+
+    <h2>7. Disclaimer</h2>
+    <p>Your use of the Service is at your sole risk. The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Service is provided without warranties of any kind, whether express or implied.</p>
+
+    <h2>8. Changes</h2>
+    <p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p>
+
+    <h2>9. Contact Us</h2>
+    <p>If you have any questions about these Terms, please contact us:</p>
+    <ul>
+        <li>By email: Support@goartai.com</li>
+    </ul>
+
+    <div class="footer">
+        <p>&copy; 2026 GoArtai. All rights reserved.</p>
+    </div>
+</body>
+</html>
